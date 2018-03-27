@@ -1,6 +1,7 @@
 # The-Wisdom-Of-The-Answer
 ## 回答的智慧
 
+[![知识共享协议（CC协议）](https://img.shields.io/badge/License-Creative%20Commons-DC3D24.svg?style=flat-square) ![Attribution-NonCommercial-ShareAlike CC BY-NC-SA](LICENSE.png)](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)
  
 - Don't answer questions to which you don't know the answer (不回答自己不知道答案的问题) 
   
